@@ -1,6 +1,3 @@
 yeozs/README.md
 - 👋 Hi, I’m @Yeo-Zuosheng
-- 👀 I’m interested in ... Python Programming Language, Generative AI
-- 🌱 I’m currently learning ... 
-- 💞️ I’m looking to collaborate on ... Anything, feel free to write to me!
-- 📫 How to reach me ... email me at ...
+- 👀 I’m interested in Python Programming Language, Machine Learning, Generative AI
